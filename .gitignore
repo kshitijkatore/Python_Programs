@@ -8,6 +8,7 @@ Daily_python_Que/*.py
 
 
 # Python Libraries
-/Python_Liabraries
+Python_Liabraries/*.py
+!Python_Liabraries/remove_bg.py
 
 /02_Conditional
