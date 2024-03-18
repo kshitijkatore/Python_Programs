@@ -4,7 +4,7 @@
 
 # ***********
 Daily_python_Que/*.py
-!Daily_python_Que/53_Day.py  
+!Daily_python_Que/54_Day.py  
 
 
 # Python Libraries
@@ -12,3 +12,6 @@ Python_Liabraries/*.py
 !Python_Liabraries/remove_bg.py
 
 /02_Conditional
+/complete python roadmap for data science-roadmap.jpg
+/python.pdf
+/04_List
