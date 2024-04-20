@@ -8,4 +8,3 @@ for i in range(1, n+1):
         sum_even += 1
 
 print("Sum of even number is :", sum_even)
-
